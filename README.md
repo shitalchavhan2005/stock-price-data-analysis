@@ -194,7 +194,7 @@ B.E. Artificial Intelligence & Data Science
 
 GitHub: https://github.com/shitalchavhan2005
 
-LinkedIn: *(Add your LinkedIn profile link here)*
+LinkedIn: *(https://www.linkedin.com/in/shital-chavhan-a05395315)*
 
 ---
 
